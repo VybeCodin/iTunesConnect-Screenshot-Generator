@@ -6,6 +6,7 @@
 > Download VybeCoding:
 > - [iOS App Store](https://apps.apple.com/app/id6759407823)
 > - [macOS Desktop App](https://github.com/VybeCodin/webcam/releases/download/v0.1.2/VybeCoding_0.1.2_universal.dmg)
+> - [YouTube](https://www.youtube.com/@VybeCodin)
 > - Website: [vybecoding.sh](https://www.vybecoding.sh/)
 
 ---
@@ -347,5 +348,5 @@ MIT
   <br />
   Built with <a href="https://www.vybecoding.sh/">VybeCoding</a> - Code from anywhere.
   <br />
-  <a href="https://apps.apple.com/app/id6759407823">Download on the App Store</a> · <a href="https://github.com/VybeCodin/webcam/releases">Download for macOS</a>
+  <a href="https://apps.apple.com/app/id6759407823">Download on the App Store</a> · <a href="https://github.com/VybeCodin/webcam/releases">Download for macOS</a> · <a href="https://www.youtube.com/@VybeCodin">YouTube</a>
 </p>
